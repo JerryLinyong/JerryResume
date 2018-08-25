@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en"><![endif]-->
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>JerryLin 的个人简历</title>
+    <meta name="description" content="JerryLin 的个人简历" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="https://eyrefree.github.io/EFResume/img/favicon.png" />
+    <script type='text/javascript' src='https://eyrefree.github.io/EFResume/js/vendor/modernizr.js'></script>
+    <link href="https://eyrefree.github.io/EFResume/css/notices.css" type="text/css" rel="stylesheet" />
+    <link href="https://eyrefree.github.io/EFResume/css/normalize.css" type="text/css" rel="stylesheet" />
+    <link href="https://eyrefree.github.io/EFResume/css/foundation.css" type="text/css" rel="stylesheet" />
+    <link href="https://eyrefree.github.io/EFResume/icons/foundation-icons.css" type="text/css" rel="stylesheet" />
+    <link href="https://eyrefree.github.io/EFResume/css/animate.css" type="text/css" rel="stylesheet" />
+    <link href="https://eyrefree.github.io/EFResume/css/pizza.css" type="text/css" rel="stylesheet" />
+    <link href="https://eyrefree.github.io/EFResume/css/app.css" type="text/css" rel="stylesheet" />
+    <link href="https://eyrefree.github.io/EFResume/css/print.css" rel="stylesheet" type="text/css" media="print" />
+</head>
+
+<body>
+    <div id="header">
+        <div class="row animated fadeInDown">
+            <div class="large-2 columns">
+                <h2>林永佳</h2>
+            </div>
+            <div class="large-3 columns"><div class="row"><div class="small-4 columns light2">联系方式</div><div class="small-8 columns border-left light2"><ul class="no-bullet"><li>QQ：1103140704</li><li>邮箱：linyonjia12345678@qq.com</li><li>手机：15061883830</li></ul></div></div></div><div class="large-3 columns"><div class="row"><div class="small-4 columns light2">基本信息</div><div class="small-8 columns border-left light2"><ul class="no-bullet"><li>年龄：22</li><li>性别：男</li><li>城市：杭州</li></ul></div></div></div><div class="large-3 columns"><div class="row"><div class="small-4 columns light2">社交账号</div><div class="small-8 columns border-left light2"><ul class="no-bullet"><li>GitHub：<a href='https://github.com/JerryLinyong'>Jerry</a></li></ul></div></div></div>
+        </div>
+    </div>
+    <div class="row main">
+        <div class="large-6 columns">
+            <div class="avoid_pagebreak animated fadeInUp">
+                <h4 class="title"><i class="fi-torso"></i> 个人简介</h4>
+                <div class="info">
+                    <p><strong>大学</strong>: 毕业于211工程, 985平台的<a href='http://www.jiangnan.edu.cn/'>江南大学</a>土木工程. 自大四下开始接触前端开发, 至今半年时间</p><p><strong>CSS</strong>: 掌握格式化上下文(BFC, IFC), CSS 经典布局, 新式布局(Flex, Grid), 桌面端响应式, 移动端自适应</p><p><strong>JS</strong>: 掌握 ES5(6), 常用设计模式, 面向对象, 异步编程, AJAX, DOM, (BOM), Nodejs,express,ejs,前端模块化(AMD, CMD)</p><p><strong>原理</strong>: 熟悉( MVVM/ Promise)原理/理念, babel 编译原理</p><p><strong>框架工具</strong>: 熟练使用 Vue.js, Vuex, Vue-Router, Stylus, body-parse, esLint 开发 webApp</p><p><strong>构建</strong>: 熟悉常用 webpack 配置, 能够从零配置 webpack</p><p><strong>网络</strong>: 熟悉HTTP协议, 熟练 mock 数据, 跨域, websocket</p><p><strong><p><strong>个人</strong>: 热爱web/app开发, 现阶段专注于前端开发, 志在5年内成为全栈工程师</p><p><strong>寻觅一份前端开发的全职正式工作。</strong></p>
+                </div>
+            </div>
+            <div class="avoid_pagebreak animated fadeInUp">
+                <h4 class="title"><i class="fi-like"></i> 技能专长</h4>
+                <div class="row specialities">
+                    <div class="large-4 medium-4 small-6 columns"><ul data-pie-id="1" class="pie_desc"><li data-value="45"><div class="skill_info"><span class="skill_name">HTML/CSS</span><span class="skill_level">45</span></div></li><li data-value="55"></li></ul><div id="1" class="pie  animated bounceIn"></div></div><div class="large-4 medium-4 small-6 columns"><ul data-pie-id="2" class="pie_desc"><li data-value="80"><div class="skill_info"><span class="skill_name">口头英语</span><span class="skill_level">80</span></div></li><li data-value="20"></li></ul><div id="2" class="pie  animated bounceIn"></div></div><div class="large-4 medium-4 small-6 columns"><ul data-pie-id="3" class="pie_desc"><li data-value="50"><div class="skill_info"><span class="skill_name">JavaScript</span><span class="skill_level">50</span></div></li><li data-value="50"></li></ul><div id="3" class="pie  animated bounceIn"></div></div>
+                </div>
+            </div>
+            <div class="avoid_pagebreak animated fadeInUp">
+                <h4 class="title"><i class="fi-star"></i> 技能评价</h4>
+                <div class="row skill">
+                    <div class="large-7 columns animated fadeIn">
+                        <h6>编程技能</h6>
+                        <ul class="small-block-grid-2"><li class="name">Javascript</li><li><ul class="small-block-grid-8 ellipses"><li><span></span></li><li><span></span></li><li><span></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li></ul></li></ul><ul class="small-block-grid-2"><li class="name">HTML</li><li><ul class="small-block-grid-8 ellipses"><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li></ul></li></ul><ul class="small-block-grid-2"><li class="name">CSS</li><li><ul class="small-block-grid-8 ellipses"><li><span></span></li><li><span></span></li><li><span></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li></ul></li></ul><ul class="small-block-grid-2"><li class="name">webpack</li><li><ul class="small-block-grid-8 ellipses"><li><span></span></li><li><span></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li></ul></li></ul><ul class="small-block-grid-2"><li class="name">node.js</li><li><ul class="small-block-grid-8 ellipses"><li><span></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li><li><span class="grey"></span></li></ul></li></ul>
+                    </div>
+                    <div class="large-5 columns animated fadeIn">
+                        <h6>能力简述</h6>
+                        <div class="name">有良好的代码编写规范，</div><div class="name">有良好的程序开发能力，</div><div class="name">熟练使用版本控制工具，</div><div class="name">能够阅读英文技术文档，</div><div class="name">关注科技行业前沿技术. </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="large-6 columns">
+            <div class="avoid_pagebreak animated fadeInUp">
+                <h4 class="title"><i class="fi-flag"></i> 个人项目（部分）</h4>
+                <div class="pro_surround">
+                    <div class="pro animated">
+                        <div class="pro_item"><div class="category">音乐播放器(移动端)</div><div class="pro_name"><a href='https://jerrylinyong.github.io/-byjerry/music#'>Github</a></div><div class="pro_desc"><ul><li class="desc_line">技术细节: 真实数据, 自适应,每日推荐, 排行榜, 精品歌单等等</li><li class="desc_line">技术栈: 原生JS+JQuery</li></ul></div></div><div class="pro_item"><div class="category">豆瓣电影(PC)</div><div class="pro_name"><a href='https://jerrylinyong.github.io/--movie/movie#'>Github预览</a></div><div class="pro_desc"><ul><li class="desc_line">项目描述: 简单搜索,PC端,到底加载节流</li></ul></div></div><div class="pro_item"><div class="category">饿了么外卖(PC)</div><div class="pro_name"><a href='https://github.com/JerryLinyong/-XM'>饿了么</a></div><div class="pro_desc"><ul><li class="desc_line">技术细节: 饿了么点餐，商家信息，用户评价，单页面应用</li><li class="desc_line">技术栈:vuejs，vue-cli,stylus，vue-router，eslint</li></ul></div></div><div class="pro_item"><div class="category">服务器搭建</div><div class="pro_name"><a href='https://github.com/JerryLinyong/server'>NodeJs搭建服务器配置路由，数据库交互数据</a></div><div class="pro_desc"><ul><li class="desc_line">技术栈: 技术细节: nodejs，express，ejs，mongoose，websocket</li></ul></div></div><div class="pro_item"><div class="category">其他</div><div class="pro_name"></div><div class="pro_desc"><ul><li class="desc_line">Node Todo MVC(express, ejs, mongoose, jQuery)</li><li class="desc_line">一个基于 websocket 的多人聊天室</li><li class="desc_line">熟悉掌握微信小程序</li></ul></div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="avoid_pagebreak animated fadeInUp">
+                <h4 class="title"><i class="fi-link"></i> 扩展技能</h4>
+                <div class="row interests">
+                    <div class="large-3 small-6 medium-3 columns animated bounceIn"><div class="int_icon"><i class="fi-html5"></i><div class="activity">前端</div></div></div><div class="large-3 small-6 medium-3 columns animated bounceIn"><div class="int_icon"><i class="fi-paint-bucket"></i><div class="activity">设计</div></div></div><div class="large-3 small-6 medium-3 columns animated bounceIn"><div class="int_icon"><i class="fi-pencil"></i><div class="activity">翻译</div></div></div><div class="large-3 small-6 medium-3 columns animated bounceIn"><div class="int_icon"><i class="fi-torsos-all"></i><div class="activity">健身</div></div></div>
+                </div>
+            </div>           
+        </div>
+    </div>
+    <div class="row footer">
+        <div class="large-12 small-12 medium-12 text-center ">
+            <div class="border text-center "></div>
+            <p class="copyright">2018 <a href="/">JerryLin</a>
+        </div>
+    </div>
+    <script src="https://eyrefree.github.io/EFResume/js/jquery-2.x.min.js" type="text/javascript"></script>
+    <script src="https://eyrefree.github.io/EFResume/js/foundation.min.js" type="text/javascript"></script>
+    <script src="https://eyrefree.github.io/EFResume/js/vendor/snap.svg.js" type="text/javascript"></script>
+    <script src="https://eyrefree.github.io/EFResume/js/pizza.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    Pizza.init(document.body, {
+        donut: true,
+        donut_inner_ratio: 0.7,
+    });
+    </script>
+</body>
+
+</html>
